@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a student<br>👯 I’m looking to collaborate with Justin Bieber<br>🤝 I’m looking for help with school<br>🌱 I’m currently learning everything<br>💬 Ask me about anything<br>⚡ Fun fact, i hate math
+🔭 I’m currently a student<br>👯 I’m looking to collaborate with Justin Bieber<br>🤝 I’m looking for help with school<br>🌱 I’m currently learning everything<br>💬 Ask me about anything<br>⚡ Fun fact, im a visual learner
 
 
 # 💻 Tech Stack:
