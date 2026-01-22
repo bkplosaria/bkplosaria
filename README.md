@@ -1,4 +1,6 @@
-<img width="2080" height="520" alt="header banner" src="https://github.com/user-attachments/assets/3815ca09-1d16-4c8a-bc40-5e0b01a31a85" />
+<img width="2080" height="520" alt="header banner" src="https://github.com/user-attachments/assets/bcbecead-6bbe-4c36-b7a3-7f8b29ab9629" />
+
+
 # 💫 About Me:
 🔭 I’m currently a student<br>👯 I’m looking to collaborate with Justin Bieber<br>🤝 I’m looking for help with school<br>🌱 I’m currently learning everything<br>💬 Ask me about anything<br>⚡ Fun fact, im a visual learner
 
