@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently a student<br>👯 I’m looking to collaborate with Justin Bieber<br>🤝 I’m looking for help with school<br>🌱 I’m currently learning everything<br>💬 Ask me about anything<br>⚡ Fun fact, im a visual learner
+🔭 I’m currently an architecture student passionate about design and visual communication<br>👯 I’m looking to collaborate with fellow creatives and professionals on meaningful projects<br>🤝 I’m looking for help with school, guidance, and mentorship to improve my skills<br>🌱 I’m currently learning new tools and techniques to expand my creative and technical abilities<br>💬 Ask me about anything<br>⚡ Fun fact, I am a visual learner who thrives when exploring ideas through images and layouts
 
 
 # 💻 Tech Stack:
