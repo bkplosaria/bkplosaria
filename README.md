@@ -1,4 +1,5 @@
-<img width="2080" height="520" alt="header banner" src="https://github.com/user-attachments/assets/bcbecead-6bbe-4c36-b7a3-7f8b29ab9629" />
+
+<img width="2400" height="600" alt="profile banner" src="https://github.com/user-attachments/assets/d1a27486-095f-40fc-b2de-1b891a4aeff7" />
 
 
 # 💫 About Me:
